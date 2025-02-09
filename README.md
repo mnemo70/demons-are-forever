@@ -1,5 +1,5 @@
 # D.O.C. - "DEMONS ARE FOREVER"
-## An Amiga Intro Disassembly
+## An Amiga Demo Disassembly
 
 This is a disassembled and slightly modernized version
 of the demo *Demons Are Forever* for Commodore Amiga
